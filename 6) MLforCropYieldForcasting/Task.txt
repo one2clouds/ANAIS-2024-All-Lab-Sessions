@@ -1,0 +1,13 @@
+Ask them to look at the following repositories:
+1. https://github.com/BigDataWUR/MLforCropYieldForecasting 
+
+Related paper is here: https://doi.org/10.1016/j.agsy.2020.103016
+
+I will use mlbaseline_pkg.ipynb notebook in Google Colab environment for hands-on exercise.
+
+2. https://github.com/BigDataWUR/AgML-CY-Bench
+Relevant paper: https://openreview.net/forum?id=jkJDNG468g#discussion
+
+I will use notebooks/run_cybench.ipynb notebook in Google Colab environment for the hands-on exercise.
+
+Thanks.
